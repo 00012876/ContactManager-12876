@@ -1,5 +1,5 @@
 # ContactManager-12876
-This application was developed for WAD module, as coursework portfolio project WIUT by student with ID 00012876
+This application was developed for Web Application module, as coursework portfolio project @ WIUT by student ID: 12876
 Calculation: 12876/20=643.8 remainder 8 
 Theme- Contact Manager
 
