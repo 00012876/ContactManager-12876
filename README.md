@@ -15,5 +15,3 @@ Backend API built with ASP.Net Core using Entity Framework
 
 
 
-Link to Demo 
-Screenshots 
